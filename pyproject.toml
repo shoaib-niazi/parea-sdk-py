@@ -46,7 +46,7 @@ levenshtein = "^0.26.1"
 pytz = "^2024.2"
 wrapt = "^1.17.2"
 tenacity = "*"
-orjson = "^3.10.14"
+orjson = "^3.9"
 
 [tool.poetry.group.dev.dependencies]
 instructor = "^1.7.2"
