@@ -45,6 +45,7 @@ poetry add parea-ai
 <p> To solve the import issues that are being mentioned </p>
 from parea.client import PareaClient
 from parea import trace
+</p> This will solve the issue of import </p>
 
 
 
