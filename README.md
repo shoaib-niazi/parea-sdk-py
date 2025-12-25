@@ -42,6 +42,11 @@ or install with `Poetry`
 ```bash
 poetry add parea-ai
 ```
+<p> To solve the import issues that are being mentioned </p>
+from parea.client import PareaClient
+from parea import trace
+
+
 
 
 ## Evaluating Your LLM App
